@@ -17,9 +17,9 @@ This project builds on Project One, which you will fully style with CSS to provi
   * Centered or right justified horizontal-navigation
 2. Second Deliverable: Give constructive comments to help at least three other students.
 3. Final Deliverable: Execute the corrects suggested in my Basecamp feedback. Update to your Basecamp post with the following
-  1. A 4-5 sentence self-critique memo of your project and your progress in class to this point (write in the body of post)
-  2. The public http:// or https:// link pointing to your live project
-  3. The https:// link to your project’s GitHub repository
+  - A 4-5 sentence self-critique memo of your project and your progress in class to this point (write in the body of post)
+  - The public http:// or https:// link pointing to your live project
+  - The https:// link to your project’s GitHub repository
 ### Requirements
 - Multiple linked valid, well-formed semantic HTML files (Project 1, essentially)
 - HTML-based fallbacks for any media elements (image, audio, video) that you include
