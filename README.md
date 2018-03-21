@@ -12,14 +12,14 @@ This project builds on Project One, which you will fully style with CSS to provi
 * Deploy web pages to a public server (can be GitHub pages, set up with your own domain name or subdomain)
 ### Deliverables & Milestones
 1. First Deliverable: Fork your Project One directory in Github to create a project two directory. Create a new Basecamp post under "Project Two" with a link to your new directory. Include in the text of your Basecamp post one or two specific things you would like feedback or help on from the instructor and other students in the class.
-..* At least four of the same style elements to each of your pages.
-..* At least four different style elements to each of your pages.
-..* Centered or right justified horizontal-navigation
+  * At least four of the same style elements to each of your pages.
+  * At least four different style elements to each of your pages.
+  * Centered or right justified horizontal-navigation
 2. Second Deliverable: Give constructive comments to help at least three other students.
 3. Final Deliverable: Execute the corrects suggested in my Basecamp feedback. Update to your Basecamp post with the following
-..1. A 4-5 sentence self-critique memo of your project and your progress in class to this point (write in the body of post)
-..2. The public http:// or https:// link pointing to your live project
-..3. The https:// link to your project’s GitHub repository
+  1. A 4-5 sentence self-critique memo of your project and your progress in class to this point (write in the body of post)
+  2. The public http:// or https:// link pointing to your live project
+  3. The https:// link to your project’s GitHub repository
 ### Requirements
 - Multiple linked valid, well-formed semantic HTML files (Project 1, essentially)
 - HTML-based fallbacks for any media elements (image, audio, video) that you include
