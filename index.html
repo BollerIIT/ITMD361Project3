@@ -2,22 +2,36 @@
 <html lang="en">
 
 <!-- Programmer: Thomas Boller -->
-<!-- Project: 1 -->
+<!-- Project: 2 -->
 <!-- Main Page -->
-<!-- Date 02/28/2018 -->
+<!-- Date 03/21/2018 -->
 
 <head>
   <meta charset="UTF-8" />
   <title>Index of My first Website</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/global.css">
 </head>
 
 <body>
 
-  <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="resume.html">Resume</a></li>
-    <li><a href="adventures.html">My Adventures</a></li>
-  </ul>
+  <header id="global-header">
+    <div class="hero-section">
+      <div class="hero-section-text">
+        <h1>Thomas Boller</h1>
+        <h5>This is my first Website</h5>
+      </div>
+    </div>
+  </header>
+  <nav id="global-navbar">
+    <div id="navbar-container" class="container">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="resume.html">Resume</a></li>
+        <li><a href="adventures.html">My Adventures</a></li>
+      </ul>
+	</div>
+  </nav>
 
   <audio loop autoplay>
     <source src="audio/heathering.mp3" type="audio/mpeg">
@@ -25,7 +39,6 @@
 
   <section>  
   <h1>Welcome to my Website!</h1> 
-  <img src="images/hazmat.jpg"  alt="main page image"/>	
   <h2>Summary:</h2>
   <p>My name is Tom and this is my first website. In addition to this front page I also have a page holding my resume
   and also a page about some adventures I have been on!  I hope you enjoy your surfing.</p> 
