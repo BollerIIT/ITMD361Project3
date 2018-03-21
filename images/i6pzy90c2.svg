@@ -1,0 +1,370 @@
+<svg version="1.1" x="0" y="0" id="i6pzy90c2" diagram-revision="0" width="1200" height="665.5" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Actor-i6pzy90c-ko73" transform="translate(5,208.5)">
+    <desc>root/uml/useCase/actor2?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <ellipse vector-effect="non-scaling-stroke" fill="#ea5b67" stroke="#ea5b67" cx="25.094" cy="6.306" rx="7.082" ry="5.81" style="fill:#ea5b67;stroke:#ea5b67;stroke-width:1.5;" stroke-width="1.5"/>
+        <path vector-effect="non-scaling-stroke" fill="#ea5b67" stroke="#ea5b67" d="M8.744,17.991c0,0,17.343-11.69,33.854,0.377c0,0,1.25,2.515,1.525,3.897l6.385,21.996&#xD;&#xA;&#x9;&#x9;c0,0-2.43,7.229-7.633,1.259L37.428,26.79c0,0-0.484-0.556-0.928-0.48c-0.891,0.153-2.229,0.771-2.229,3.12v56.939v1.887&#xD;&#xA;&#x9;&#x9;c0,0-2.947,4.713-5.965,0.251V61.985h-5.272v25.878c0,0-1.132,2.739-3.411,2.634c-2.276-0.104-3.388-2.241-3.388-2.241V28.801&#xD;&#xA;&#x9;&#x9;c0,0-0.276-4.022-2.773-2.011c0,0-5.413,20.237-7.216,20.615c-4.996,3.708-5.739-2.127-5.739-2.127S7.357,18.368,8.744,17.991z" style="fill:#ea5b67;stroke:#ea5b67;stroke-width:1.5;" stroke-width="1.5"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="33.5" height="20" transform="translate(8.75,101)">
+      <tspan x="3" y="15" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">User</tspan>
+    </text>
+  </g>
+  <g id="Actor-i6pzy90c-ko74" transform="translate(5,473.5)">
+    <desc>root/uml/useCase/actor2?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <ellipse vector-effect="non-scaling-stroke" fill="#ea5b67" stroke="#ea5b67" cx="25.094" cy="6.306" rx="7.082" ry="5.81" style="fill:#ea5b67;stroke:#ea5b67;stroke-width:1.5;" stroke-width="1.5"/>
+        <path vector-effect="non-scaling-stroke" fill="#ea5b67" stroke="#ea5b67" d="M8.744,17.991c0,0,17.343-11.69,33.854,0.377c0,0,1.25,2.515,1.525,3.897l6.385,21.996&#xD;&#xA;&#x9;&#x9;c0,0-2.43,7.229-7.633,1.259L37.428,26.79c0,0-0.484-0.556-0.928-0.48c-0.891,0.153-2.229,0.771-2.229,3.12v56.939v1.887&#xD;&#xA;&#x9;&#x9;c0,0-2.947,4.713-5.965,0.251V61.985h-5.272v25.878c0,0-1.132,2.739-3.411,2.634c-2.276-0.104-3.388-2.241-3.388-2.241V28.801&#xD;&#xA;&#x9;&#x9;c0,0-0.276-4.022-2.773-2.011c0,0-5.413,20.237-7.216,20.615c-4.996,3.708-5.739-2.127-5.739-2.127S7.357,18.368,8.744,17.991z" style="fill:#ea5b67;stroke:#ea5b67;stroke-width:1.5;" stroke-width="1.5"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="41" height="20" transform="translate(5,101)">
+      <tspan x="2.5" y="15" style="font-family:Lato;font-size:14px;fill:#4b4b4b;">Driver</tspan>
+    </text>
+  </g>
+  <g id="Use Case-i6pzy90c-ko75" transform="translate(195,73.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="62" height="20" transform="translate(14.5,20)">
+      <tspan x="5" y="15" style="font-family:Lato;font-size:14px;fill:#ffffff;">Register</tspan>
+    </text>
+  </g>
+  <g id="Use Case-i6pzy90c-ko76" transform="translate(190,243.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="44" height="20" transform="translate(23.5,20)">
+      <tspan x="5" y="15" style="font-family:Lato;font-size:14px;fill:#ffffff;">Login</tspan>
+    </text>
+  </g>
+  <g id="Use Case-i6pzy90c-ko77" transform="translate(630,243.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="81.5" height="34" transform="translate(4.75,13)">
+      <tspan x="5" y="15" style="font-family:Lato;font-size:14px;fill:#ffffff;">Choose the</tspan>
+      <tspan x="6" y="31" style="font-family:Lato;font-size:14px;fill:#ffffff;">type of ride</tspan>
+    </text>
+  </g>
+  <g id="Use Case-i6pzy90c-ko78" transform="translate(755,243.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="74" height="34" transform="translate(8.5,13)">
+      <tspan x="5" y="15" style="font-family:Lato;font-size:14px;fill:#ffffff;">Request a</tspan>
+      <tspan x="25.5" y="31" style="font-family:Lato;font-size:14px;fill:#ffffff;">ride</tspan>
+    </text>
+  </g>
+  <g id="Use Case-i6pzy90c-ko79" transform="translate(310,233.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.5384615659713745,1.3934426307678223)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="133" height="50" transform="translate(3.5,17)">
+      <tspan x="15.5" y="15" style="font-family:Lato;font-size:14px;fill:#ffffff;">Enter the pickup</tspan>
+      <tspan x="5" y="31" style="font-family:Lato;font-size:14px;fill:#ffffff;">location/ Allow GPS</tspan>
+      <tspan x="24.5" y="47" style="font-family:Lato;font-size:14px;fill:#ffffff;">to locate user</tspan>
+    </text>
+  </g>
+  <g id="Use Case-i6pzy90c-ko80" transform="translate(355,73.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="74.5" height="34" transform="translate(8.25,13)">
+      <tspan x="5.5" y="15" style="font-family:Lato;font-size:14px;fill:#ffffff;">Enter card</tspan>
+      <tspan x="17.5" y="31" style="font-family:Lato;font-size:14px;fill:#ffffff;">details</tspan>
+    </text>
+  </g>
+  <g id="Use Case-i6pzy90c-ko81" transform="translate(500,243.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="77.5" height="34" transform="translate(6.75,13)">
+      <tspan x="22" y="15" style="font-family:Lato;font-size:14px;fill:#ffffff;">Enter</tspan>
+      <tspan x="5" y="31" style="font-family:Lato;font-size:14px;fill:#ffffff;">destination</tspan>
+    </text>
+  </g>
+  <g id="L Wide and Sharp Edged-i6pzy90c-ko82" transform="translate(51.25,248.5)">
+    <desc>root/arrows/leftWideAndSharpEdgedHead?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(140.6,0) rotate(180) scale(1.5419590473175049,-0.7882736325263977)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="38.203,8.211 23.207,23.209 90.708,23.209 90.708,38.207 23.207,38.207 &#xD;&#xA;&#x9;38.203,53.214 30.71,60.708 0.707,30.713 30.71,0.708 " style="fill:#ffffff;stroke:#3298da;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko86" transform="translate(41.5,108.25)">
+    <desc>root/arrows/leftWideAndSharpEdgedHead?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(140.75,0) rotate(148.38496271074695) scale(1.8124276612134589,-0.7882737323555051)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="38.203,8.211 23.207,23.209 90.708,23.209 90.708,38.207 23.207,38.207 &#xD;&#xA;&#x9;38.203,53.214 30.71,60.708 0.707,30.713 30.71,0.708 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="To Right Arrow-i6pzy90c-ko88" transform="translate(290,93.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.7131103277206421,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke:#3298da;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko89" transform="translate(280,263.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.32912784814834595,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko91" transform="translate(450,263.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.5485464930534363,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko93" transform="translate(590,263.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.43883711099624634,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko95" transform="translate(720,263.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.38398247957229614,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Use Case-i6pzy90c-ko97" transform="translate(185,488.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.3186813592910767,1.065573811531067)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="95" height="46" transform="translate(12.5,9)">
+      <tspan x="5" y="13" style="font-family:Lato;font-size:14px;fill:#ffffff;">View list of all</tspan>
+      <tspan x="24" y="27" style="font-family:Lato;font-size:14px;fill:#ffffff;">near by</tspan>
+      <tspan x="11" y="41" style="font-family:Lato;font-size:14px;fill:#ffffff;">passengers</tspan>
+    </text>
+  </g>
+  <g id="Use Case-i6pzy90c-ko98" transform="translate(385,488.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="75" height="32" transform="translate(8,14)">
+      <tspan x="10" y="13" style="font-family:Lato;font-size:14px;fill:#ffffff;">Accept a</tspan>
+      <tspan x="5" y="27" style="font-family:Lato;font-size:14px;fill:#ffffff;">passenger</tspan>
+    </text>
+  </g>
+  <g id="i6pzy90c-ko101" transform="translate(784.3,303.35)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(21.3,0.05) rotate(91.78642673136905) scale(0.4587048207534982,0.34423415785471545)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko103" transform="translate(234.85000000000002,458.45000000000005)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(20,0.05) rotate(90) scale(0.3269495368003845,0.34423415785471545)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-i6pzy90c-ko105" transform="translate(-235,-311.5)">
+    <g id="graphics">
+      
+      <path d="M 1019.3 634.85 L 750.25 634.85 L 750.25 715 L 479.85 715 L 479.85 769.95 " fill="none" stroke="#3298da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <rect fill="#ffffff" x="0" y="0" width="262.5" height="24" transform="translate(346.6,725.95)"/>
+    <text x="0" y="0" width="266.5" height="28" transform="translate(346.6,725.95)">
+      <tspan x="2.5" y="11" style="font-family:Lato;font-size:12px;fill:#000000;">Added to the available passanger list</tspan>
+    </text>
+  </g>
+  <g id="i6pzy90c-ko106" transform="translate(475,508.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.4936918020248413,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko108" transform="translate(305,508.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8776743412017822,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko111" transform="translate(815.05,303.4)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(0,44.95) rotate(-90.00000000000001) scale(0.4936918318271637,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-i6pzy90c-ko113" transform="translate(-235,-311.5)">
+    <g id="graphics">
+      
+      <path d="M 755 830 L 902.523275955975 830 L 902.523275955975 659.9 L 1060.05 659.9 " fill="none" stroke="#3298da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <rect fill="#ffffff" x="0" y="0" width="188" height="14" transform="translate(806.5,753.8)"/>
+    <text x="0" y="0" width="192" height="18" transform="translate(806.5,753.8)">
+      <tspan x="2.5" y="13" style="font-family:Lato;font-size:14px;fill:#000000;">Details about the driver is sent</tspan>
+    </text>
+  </g>
+  <g id="i6pzy90c-ko114" transform="translate(65,513.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.3165115118026733,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Use Case-i6pzy90c-ko116" transform="translate(715,483.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.208791275024414,1)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="97.5" height="46" transform="translate(6.25,7)">
+      <tspan x="10" y="13" style="font-family:Lato;font-size:14px;fill:#ffffff;">Status of the</tspan>
+      <tspan x="5.5" y="27" style="font-family:Lato;font-size:14px;fill:#ffffff;">driver is set to</tspan>
+      <tspan x="34.5" y="41" style="font-family:Lato;font-size:14px;fill:#ffffff;">busy</tspan>
+    </text>
+  </g>
+  <g id="i6pzy90c-ko120" transform="translate(680,508.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.3839825391769409,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-i6pzy90c-ko122" transform="translate(-235,-311.5)">
+    <g id="graphics">
+      
+      <path d="M 755 830 L 915 830 " fill="none" stroke="#3298da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="Use Case-i6pzy90c-ko123" transform="translate(945,358.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.2637362670898438,1)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="108" height="32" transform="translate(3.5,14)">
+      <tspan x="10" y="13" style="font-family:Lato;font-size:14px;fill:#ffffff;">Ride is picked</tspan>
+      <tspan x="5" y="27" style="font-family:Lato;font-size:14px;fill:#ffffff;">up and dropped</tspan>
+    </text>
+  </g>
+  <g id="i6pzy90c-ko124" transform="translate(835,278.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(10.45,0) rotate(31.510422981956154) scale(1.617549807037271,0.34423413175657325)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko126" transform="translate(825.05,400.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(0,98.2) rotate(-39.81970580220116) scale(1.6829908496017278,0.3442341399856652)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Use Case-i6pzy90c-ko128" transform="translate(940,483.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.5384614562988281,1)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="127.5" height="32" transform="translate(6.2,14)">
+      <tspan x="5" y="13" style="font-family:Lato;font-size:14px;fill:#ffffff;">Status of the driver</tspan>
+      <tspan x="10" y="27" style="font-family:Lato;font-size:14px;fill:#ffffff;">is set to available</tspan>
+    </text>
+  </g>
+  <g id="i6pzy90c-ko129" transform="translate(988.8499999999999,418.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(21.5,0) rotate(91.31268719524292) scale(0.735245184925564,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko131" transform="translate(995.05,543.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(19.9,0) rotate(89.70708155991132) scale(0.39746938017979483,0.34423411540985394)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko139" transform="translate(235,548.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(0,38.3) rotate(-89.85284575837746) scale(0.4014715382408329,0.34423412133887427)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-i6pzy90c-ko141" transform="translate(-235,-311.5)">
+    <g id="graphics">
+      
+      <path d="M 1230.05 875 L 889.3206602049421 875 L 889.3206602049421 973 L 481 973 L 481 895 L 480 895 " fill="none" stroke="#3298da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g id="Use Case-i6pzy90c-ko142" transform="translate(1105,358.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="86.5" height="46" transform="translate(2.25,7)">
+      <tspan x="16" y="13" style="font-family:Lato;font-size:14px;fill:#ffffff;">Payment</tspan>
+      <tspan x="5.5" y="27" style="font-family:Lato;font-size:14px;fill:#ffffff;">confirmation</tspan>
+      <tspan x="10.5" y="41" style="font-family:Lato;font-size:14px;fill:#ffffff;">is received</tspan>
+    </text>
+  </g>
+  <g id="i6pzy90c-ko143" transform="translate(1060,378.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.4936918020248413,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko147" transform="translate(445,93.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.7131103277206421,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Use Case-i6pzy90c-ko149" transform="translate(510,73.5)">
+    <desc>root/uml/useCase/useCase?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.0989011383056642,1)">
+      <ellipse vector-effect="non-scaling-stroke" fill="#1abc9c" stroke="#1abc9c" cx="45.5" cy="30.5" rx="45" ry="30" style="fill:#1abc9c;stroke:#1abc9c;stroke-width:1.5;" stroke-width="1.5"/>
+    </g>
+    <text x="0" y="0" width="94" height="32" transform="translate(3,14)">
+      <tspan x="25" y="13" style="font-family:Lato;font-size:14px;fill:#ffffff;">User is</tspan>
+      <tspan x="5" y="27" style="font-family:Lato;font-size:14px;fill:#ffffff;">authenticated</tspan>
+    </text>
+  </g>
+  <g id="i6pzy90c-ko150" transform="translate(542.25,133.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(20,0) rotate(90) scale(0.5485464930534363,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko152" transform="translate(225,206.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(20,0) rotate(90) scale(0.40592440962791443,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-i6pzy90c-ko154" transform="translate(-235,-311.5)">
+    <g id="graphics">
+      
+      <path d="M 777.25 470 L 623.6 470 L 623.6 500 L 470 500 L 470 518 " fill="none" stroke="#3298da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <rect fill="#ffffff" x="0" y="0" width="45" height="12" transform="translate(506.2,491.5)"/>
+    <text x="0" y="0" width="49" height="16" transform="translate(506.2,491.5)">
+      <tspan x="2.5" y="11" style="font-family:Lato;font-size:12px;fill:#000000;">Success</tspan>
+    </text>
+  </g>
+  <g id="i6pzy90c-ko158" transform="translate(545,43.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(0,30.95) rotate(-90.00000000000003) scale(0.3400987982749939,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="i6pzy90c-ko160" transform="translate(235.7,43.5)">
+    <desc>root/arrows/toRight?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="translate(20,0) rotate(90) scale(0.3400987982749939,0.3442341089248657)">
+      <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="0.5,15.217 68.044,15.217 68.044,1.41 90.5,29.096 68.103,56.71 68.103,42.831 &#xD;&#xA;&#x9;0.5,42.831 " style="fill:#ffffff;stroke-width:1.5;stroke:#3298da;" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-i6pzy90c-ko162" transform="translate(-235,-311.5)">
+    <g id="graphics">
+      
+      <path d="M 780 370 L 643.3738123855888 370 L 643.3738123855888 320 L 480.7 320 L 480.7 355 " fill="none" stroke="#3298da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <rect fill="#ffffff" x="0" y="0" width="36.5" height="12" transform="translate(502.4,311.5)"/>
+    <text x="0" y="0" width="40.5" height="16" transform="translate(502.4,311.5)">
+      <tspan x="2.5" y="11" style="font-family:Lato;font-size:12px;fill:#000000;">Failure</tspan>
+    </text>
+  </g>
+</svg>
