@@ -17,32 +17,7 @@
 .hero-section .hero-section-text {
   color: #fefefe;
   text-shadow: 1px 1px 2px #0a0a0a;
-}
-
-#global-header {
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cb60b3+0,ad1283+54,de47ac+100 */
-background: #cb60b3; /* Old browsers */
-background: -moz-linear-gradient(left, #cb60b3 0%, #ad1283 54%, #de47ac 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left, #cb60b3 0%,#ad1283 54%,#de47ac 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right, #cb60b3 0%,#ad1283 54%,#de47ac 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cb60b3', endColorstr='#de47ac',GradientType=1 ); /* IE6-9 */	
-	
-}
-
-.container {
-	width: 960px;
-	margin: 0 auto;
-	overflow: hidden;
-
-}
-
-#global-header img.banner-img {
-	margin: 0;
-	margin-left: 0;
-	float: left;
-	max-width: 480px;
-    height: auto;
-	
+  font-family: 'Sedgwick Ave Display', cursive;
 }
 
 #global-navbar {
@@ -78,6 +53,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cb60b3', end
 	position: relative;
 	right: 50%;
 	display: block;
+	font-family: 'Sedgwick Ave Display', cursive;
 }
 
 #global-navbar ul li a {
