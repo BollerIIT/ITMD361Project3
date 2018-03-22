@@ -1,6 +1,12 @@
+body {
+    text-align: left;
+	display: grid;
+}
+#gallery-division {
+	
+}
 div.gallery {
     margin: 5px;
-	padding: 2px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
