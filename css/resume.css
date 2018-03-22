@@ -1,0 +1,31 @@
+body {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d6f9ff+0,9ee8fa+100;Blue+3D */
+	background: #d6f9ff; /* Old browsers */
+	background: -moz-linear-gradient(left, #d6f9ff 0%, #9ee8fa 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #d6f9ff 0%,#9ee8fa 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #d6f9ff 0%,#9ee8fa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6f9ff', endColorstr='#9ee8fa',GradientType=1 ); /* IE6-9 */
+	
+}
+
+h1, h2, h3, h4{
+    text-align: center;
+	font-family: 'Rufina', serif;	
+    
+}
+p, ul, li {
+	text-align: center-left;
+	font-family: 'Rufina', serif;
+}
+#resume-container {
+	text-align: center;
+}
+
+#resume-text {
+display: inline-block;
+ text-align: left;	
+}
+
+#contact-info {
+	text-align: center;
+}
