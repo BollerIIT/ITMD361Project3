@@ -9,7 +9,7 @@ body {
 	display: grid;
 	font-family: 'VT323', monospace;
 }
-#gallery-description {
+.gallery-description {
 	font-size: large;
 }
 div.gallery {
