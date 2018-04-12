@@ -63,6 +63,11 @@ div.desc {
     float: left;
     width: 24.99999%;
 }
+.clear:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 #global-navbar {
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cb60b3+0,aa0a7d+54,de47ac+100 */
