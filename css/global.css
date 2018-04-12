@@ -36,8 +36,7 @@ display: inline-block;
 	font-size: large;
 }
 #gallery-division {
-	display: grid;
-	text-align: center;
+
 }
 div.gallery {
     margin: 5px;
