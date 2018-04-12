@@ -20,8 +20,8 @@ h1, h2, h3, h4{
     
 }
 body.ab {
-		text-align: left;
-	display: grid;
+	text-align: left;
+
 }
 p, ul, li {
 	text-align: center-left;
@@ -65,7 +65,9 @@ div.desc {
     padding: 0 6px;
     float: left;
     width: 24.99999%;
-	   display: grid;
+	display: grid;
+  grid-auto-columns: 50px;
+  grid-gap: 10px;
 }
 .clear:after {
     content: "";
