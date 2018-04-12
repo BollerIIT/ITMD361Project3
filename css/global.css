@@ -61,12 +61,15 @@ div.desc {
     padding: 0 6px;
     float: left;
     width: 24.99999%;
-	   display: inline-block;
+	   display: grid;
 }
 .clear:after {
     content: "";
     display: table;
     clear: both;
+}
+p.gallery-description {
+	text-align: center;
 }
 
 #global-navbar {
