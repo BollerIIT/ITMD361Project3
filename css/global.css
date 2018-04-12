@@ -19,6 +19,10 @@ h1, h2, h3, h4{
 	font-family: 'Rufina', serif;	
     
 }
+body.ab {
+		text-align: left;
+	display: grid;
+}
 p, ul, li {
 	text-align: center-left;
 	font-family: 'Rufina', serif;
