@@ -40,8 +40,9 @@ div.gallery-division {
 	text-align: center;
 }
 div.gallery {
+	position: relative;
     margin: 5px;
-    border: none;
+    border: hidden;
     float: none;
     width: 180px;
 
