@@ -37,6 +37,7 @@ display: inline-block;
 }
 #gallery-division {
 	display: grid;
+	text-align: center;
 }
 div.gallery {
     margin: 5px;
