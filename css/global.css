@@ -6,34 +6,30 @@ body {
 	background: linear-gradient(to right, #f2f6f8 0%,#d8e1e7 36%,#e0eff9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', endColorstr='#e0eff9',GradientType=1 ); /* IE6-9 */
 }
-#adven-body {
-	text-align: left;
-	display: grid;
-	
-}
-#gallery-description {
+.gallery-description {
 	font-size: large;
 }
-#gallery {
+div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
     width: 180px;
 }
 
-#gallery:hover {
+div.gallery:hover {
     border: 1px solid #777;
 }
 
-#gallery img {
+div.gallery img {
     width: 100%;
     height: auto;
 }
 
-#desc {
+div.desc {
     padding: 15px;
     text-align: center;
 }
+
 #global-navbar {
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cb60b3+0,aa0a7d+54,de47ac+100 */
 	background: #cb60b3; /* Old browsers */
@@ -80,19 +76,3 @@ body {
 	background-color: #000;
 }
 
-#index-container {
-
-}
-
-#index-body{
-	
-h1 {
-    text-align: center;
-	font-family: 'Sedgwick Ave Display', cursive;
-    
-}
-p {
-	text-align: center;
-	font-family: 'Inconsolata', monospace;
-}
-}
