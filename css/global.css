@@ -8,17 +8,20 @@ body {
 }
 #adven-body {
 	text-align: center;
-	display: grid;
 	font-family: 'VT323', monospace;
 }
 .gallery-description {
 	font-size: large;
+}
+#gallery-division {
+	display: grid;
 }
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
     float: center;
     width: 180px;
+
 }
 
 div.gallery:hover {
