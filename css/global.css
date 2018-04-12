@@ -32,24 +32,12 @@ display: inline-block;
 #contact-info {
 	text-align: center;
 }
-.gallery-description {
-	font-size: large;
-}
-div.gallery-division {
-	display: grid;
-	text-align: center;
-}
 div.gallery {
-	position: relative;
-    margin: 5px;
-    border: hidden;
-    float: none;
-    width: 180px;
-
+    border: 1px solid #ccc;
 }
 
 div.gallery:hover {
-    border: none;
+    border: 1px solid #777;
 }
 
 div.gallery img {
@@ -60,6 +48,16 @@ div.gallery img {
 div.desc {
     padding: 15px;
     text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.gallery-division {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
 }
 
 #global-navbar {
