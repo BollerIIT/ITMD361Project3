@@ -35,19 +35,20 @@ display: inline-block;
 .gallery-description {
 	font-size: large;
 }
-#gallery-division {
-
+div.gallery-division {
+	display: grid;
+	text-align: center;
 }
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
-    float: center;
+    float: left;
     width: 180px;
 
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+    border: none;
 }
 
 div.gallery img {
