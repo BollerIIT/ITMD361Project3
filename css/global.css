@@ -19,13 +19,14 @@ h1, h2, h3, h4{
 	font-family: 'Rufina', serif;	
     
 }
-body.ab {
-	text-align: left;
-
-}
 p, ul, li {
 	text-align: center-left;
 	font-family: 'Rufina', serif;
+}
+body.ab {
+	text-align: left;
+	display: grid;
+	font-family: 'VT323', monospace;
 }
 #resume-container {
 	text-align: center;
@@ -39,8 +40,18 @@ display: inline-block;
 #contact-info {
 	text-align: center;
 }
+.gallery-description {
+	font-size: large;
+}
 div.gallery {
+    position: relative;
+    left: 30px;
+	right: 30px;
+    margin: 5px;
     border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+	padding: 15px;
 }
 
 div.gallery:hover {
@@ -61,22 +72,6 @@ div.desc {
     box-sizing: border-box;
 }
 
-.gallery-division {
-    padding: 0 6px;
-    float: left;
-    width: 24.99999%;
-	display: grid;
-  grid-auto-columns: 50px;
-  grid-gap: 10px;
-}
-.clear:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-p.gallery-description {
-	text-align: center;
-}
 
 #global-navbar {
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cb60b3+0,aa0a7d+54,de47ac+100 */
