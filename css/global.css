@@ -61,7 +61,7 @@ div.desc {
     padding: 0 6px;
     float: left;
     width: 24.99999%;
-	   display: inline;
+	   display: inline-block;
 }
 .clear:after {
     content: "";
