@@ -36,6 +36,9 @@ body.ab {
 display: inline-block;
 	
 }
+.resumeli{
+	text-align: left;
+}
 
 #contact-info {
 	text-align: center;
