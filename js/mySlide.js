@@ -3,7 +3,7 @@
       mode: 'fade',
       captions: true,
       slideWidth: 800,
-	  adaptiveHeight: true
+	  responsive: true
       });
     });
 	
